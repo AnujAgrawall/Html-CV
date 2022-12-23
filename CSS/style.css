@@ -1,0 +1,27 @@
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
+.my {
+    width: 200px;
+    border: 2px rgb(218, 255, 6) solid;
+    border-radius: 1000px;
+}
+
+body {
+    background-color: #fcfaee;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgba(233, 221, 108, 0.267);
+    border-width: 7px;
+    width: 5%;
+}
+
+h1,
+h3 {
+    color: #d4d25d;
+}
